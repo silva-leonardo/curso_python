@@ -1,3 +1,5 @@
+#Precedencia de valores
+#Parenteses é executado de dentro para fora
 # 1. (n + n)
 # 2. **
 # 3. * / // %
